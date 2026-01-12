@@ -2,6 +2,10 @@
 
 A complete Solana token launchpad application that allows users to create custom tokens with metadata and mint them to their wallet.
 
+IMPORTANT:- Token creation require small amount of SOL to pay solana network fees (i.e gas fee). Please ensure wallet has suffecient SOL before proceeding. 
+**(Devnet SOL for testing)**
+
+
 ## Features
 
 - Create custom SPL tokens on Solana devnet
