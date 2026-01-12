@@ -58,6 +58,20 @@ npm run build
 - **Wallet Integration**: Solana Wallet Adapter
 - **Styling**: CSS with modern design
 
+## 📁 Project Structure
+```bash
+solana-launchpad/
+├── src/
+│   ├── components/
+│   │   └── TokenLaunchpad.jsx
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
 ## Network
 
 The application currently runs on **Solana Devnet**. Make sure your wallet is connected to devnet when creating tokens.
@@ -70,6 +84,13 @@ The following wallets are supported:
 - Backpack
 - Glow
 - And more via Solana Wallet Adapter
+
+## Learning Objectives
+
+- Understanding Solana SPL token workflow
+- Integrating wallets with frontend applications
+- Building scalable Web3 user interfaces
+- Handling blockchain transactions securely
 
 ## Learn More
 
