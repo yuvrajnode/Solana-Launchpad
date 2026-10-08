@@ -1,11 +1,11 @@
-# Solana Token Launchpad
+# Solana Token Launchpad · Token-2022 on Devnet
 
 A complete Solana token launchpad application that allows users to create custom tokens with metadata and mint them to their wallet.
 
-IMPORTANT:- Token creation require small amount of SOL to pay solana network fees (i.e gas fee). Please ensure wallet has suffecient SOL before proceeding. 
+Token creation requires devnet SOL for network fees. Fund the connected devnet wallet before creating a token. 
 **(Devnet SOL for testing)**
 
-## Deployment Linnk:-
+## Live demo
 
 https://solana-launchpad-lac.vercel.app
 
